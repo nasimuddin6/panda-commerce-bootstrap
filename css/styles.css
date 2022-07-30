@@ -7,13 +7,23 @@ h1 {
 }
 
 .btn-warning {
-    color: white !important;
-    background-color: rgb(227, 71, 123) !important;
+    color: #fff !important;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%) !important;
     ;
+    border: none !important;
+    border-radius: 8px !important;
+    padding: 9px 25px !important;
 }
 
 .btn-primary {
-    color: white;
-    background-color: rgb(227, 71, 123) !important;
+    color: #fff !important;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%) !important;
     ;
+    border: none !important;
+    border-radius: 8px !important;
+    padding: 9px 25px !important;
+}
+
+.categories img {
+    width: 100px;
 }
