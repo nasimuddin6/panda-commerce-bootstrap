@@ -1,0 +1,19 @@
+.bg-info {
+    background-color: rgb(253, 210, 216) !important;
+}
+
+h1 {
+    color: rgb(227, 71, 123) !important;
+}
+
+.btn-warning {
+    color: white !important;
+    background-color: rgb(227, 71, 123) !important;
+    ;
+}
+
+.btn-primary {
+    color: white;
+    background-color: rgb(227, 71, 123) !important;
+    ;
+}
